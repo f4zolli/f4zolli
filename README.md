@@ -21,10 +21,10 @@
 ##
 
 - 🔭 I’m currently working with Helpdesk/Support Analyst
-- 🌱 I’m currently learning Linux/Git
+- 🌱 I’m currently learning Linux/Docker/K8s
 - 🤔 I’m looking for help with DevOps tools
 - 📫 How to reach me: matheus@zollitech.com.br
-- ⚡ Fun fact: I'm 22 years old.
+- ⚡ Fun fact: I'm 23 years old.
 
 <div> 
   <a href="https://instagram.com/f4zolli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
