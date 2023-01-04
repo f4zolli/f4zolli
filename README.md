@@ -20,7 +20,7 @@
 
 ##
 
-- 🔭 I’m currently working with Helpdesk/Support Analyst
+- 🔭 I’m currently working with Infrestruct Analist Jr
 - 🌱 I’m currently learning Linux/Docker/K8s
 - 🤔 I’m looking for help with DevOps tools
 - 📫 How to reach me: matheus@zollitech.com.br
