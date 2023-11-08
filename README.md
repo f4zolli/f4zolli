@@ -9,7 +9,7 @@ My name is Matheus Fazolli, and I'm currently working as a Infraestructure Anali
 <div style="display: inline_block"><br>
   <img align="center" alt="Zolli-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="Zolli-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
-  <img align="center" alt="Zolli-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">.
+  <img align="center" alt="Zolli-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   <img align="center" alt="Zolli-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Zolli-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
   <img align="center" alt="Zolli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -22,7 +22,7 @@ My name is Matheus Fazolli, and I'm currently working as a Infraestructure Anali
 
 
 ## Contact
-📫 How to reach me: matheus@zollitech.com.br and <a href = "https://zollitech.com.br"> MY BLOG</a>
+📫 How to reach me: matheus@zollitech.com.br and <a href = "https://zollitech.com.br/blog"> MY BLOG</a>
 
 <div> 
   <a href="https://www.linkedin.com/in/matheus-fazolli" target="_blank"><img align="center" alt="Zolli-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
