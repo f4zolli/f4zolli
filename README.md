@@ -1,9 +1,9 @@
 ## Hi everyone! <img align="center" alt="Zolli-Tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-My name is Matheus Fazolli, and I'm currently working as a Infraestructure Analist Jr at HST Card Technology, 100% remote. I would like to work outside Brazil and I'm studying for this. 
+My name is Matheus Fazolli, and I'm currently working as a Infraestructure Analist at HST Card Technology, 100% remote. I would like to work outside Brazil and I'm studying for this. 
 
 ## Technologies that I use daily
 - I work managing Virtual Machines with CentOS and Ubuntu Server. I use and development Shell Scripts for some tasks.
-- I work with Gitlab to Continuous Delivery and deploy Virtual Machines with hardening and essentials settings at my work environment , using some pipelines with Terraform and Ansible. I'm learning Python, because I need use in some tasks.
+- I work with Gitlab to Continuous Delivery and deploy Virtual Machines, using some pipelines with Terraform and Ansible. Eternal Python learner.
 - I have two certifications: **Linux Essentials** and **AWS Cloud Practitioner**
 
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@ My name is Matheus Fazolli, and I'm currently working as a Infraestructure Anali
 
 
 ## Contact
-📫 How to reach me: matheus@zollitech.com.br and <a href = "https://zollitech.com.br/blog"> MY BLOG</a>
+📫 How to reach me: mr.fazolli@gmail.com and <a href = "https://zollitech.com.br/"> MY BLOG</a>
 
 <div> 
   <a href="https://www.linkedin.com/in/matheus-fazolli" target="_blank"><img align="center" alt="Zolli-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
