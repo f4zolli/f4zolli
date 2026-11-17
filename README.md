@@ -1,29 +1,39 @@
-## Hi everyone! <img align="center" alt="Zolli-Tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-My name is Matheus Fazolli, and I'm currently working as a Infraestructure Analist at HST Card Technology, 100% remote. I would like to work outside Brazil and I'm studying for this. 
+## Hi there! <img align="center" alt="Tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-## Technologies that I use daily
-- I work managing Virtual Machines with CentOS and Ubuntu Server. I use and development Shell Scripts for some tasks.
-- I work with Gitlab to Continuous Delivery and deploy Virtual Machines, using some pipelines with Terraform and Ansible. Eternal Python learner.
-- I have two certifications: **Linux Essentials** and **AWS Cloud Practitioner**
+I'm **Matheus Fazolli**, a DevOps Engineer at a payments technology company, working 100% remotely from Brazil.
+I'm preparing to work internationally and keep studying for it every day.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Zolli-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" alt="Zolli-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
-  <img align="center" alt="Zolli-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Zolli-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Zolli-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg">
-  <img align="center" alt="Zolli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Zolli-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Zolli-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Zolli-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
-  <img align="center" alt="Zolli-Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
-</div>
+## What I do
 
+- **Infrastructure:** I manage Linux servers (CentOS and Ubuntu Server) and automate routine tasks with Shell scripts.
+- **Automation and delivery:** I build CI/CD pipelines in GitLab and GitHub Actions, provisioning and configuring virtual machines with Terraform and Ansible.
+- **Observability:** I monitor systems and services with Grafana and Datadog.
+- **Side projects:** I build web apps with TypeScript on Cloudflare (Workers, D1, R2), using Hono and React, with automated tests and releases.
+- **Always learning:** Python, containers and Kubernetes.
+
+**Certifications:** Linux Essentials · AWS Cloud Practitioner
+
+## Tech stack
+
+<p>
+  <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img alt="CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" />
+  <img alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Cloudflare" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />
+  <img alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img alt="GitHub Actions" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
+  <img alt="Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+  <img alt="Datadog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" />
+</p>
 
 ## Contact
-📫 How to reach me: mr.fazolli@gmail.com and <a href = "https://zollitech.com.br/"> MY BLOG</a>
 
-<div> 
-  <a href="https://www.linkedin.com/in/matheus-fazolli" target="_blank"><img align="center" alt="Zolli-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  
-</div>
+📫 [mr.fazolli@gmail.com](mailto:mr.fazolli@gmail.com) · [Blog](https://blog.zollitech.com.br/) · [LinkedIn](https://www.linkedin.com/in/matheus-fazolli)
